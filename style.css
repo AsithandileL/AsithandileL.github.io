@@ -194,11 +194,11 @@ table, th, td {
 .Btn{
 
     background-color: #4C76E2 ;
-    width: 66px;
+    width: 64px;
     margin-left: 20px;
     border-radius:4px;
-    height: 25px;
-    text-align:center
+    height: 27px;
+    text-align:center;
     cursor: pointer;
     transition: 1s;
     border: none;
